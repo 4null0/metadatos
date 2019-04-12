@@ -36,7 +36,7 @@ If you want a colored output, you can use -c argument.
 ```
 python metadatos.py -c -d ./samples
 ```
-If you want analyse the demo.docx file which inside of the samples directory, you can use the -f argument. 
+If you want analyse the demo.docx file which is inside of the samples directory, you can use the -f argument. 
 ```
 python metadatos.py -c -f ./samples/demo.docx
 
